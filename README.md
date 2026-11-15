@@ -1,4 +1,4 @@
-# 🛍️  portofino System
+# 🛍️  Bazar System
 
 نظام إدارة حسابات البازارات متكامل تم تطويره بلغة Python.
 
